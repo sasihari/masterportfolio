@@ -65,11 +65,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "1de36679c03ac76df0c636f5102d3a75",
-    "url": "./static/media/animated_ashutosh.1de36679.png"
+    "url": "./static/media/animated_harish_vijayaragvan.1de36679"
   },
   {
     "revision": "6c8410d0dc11fec239040695be13315d",
-    "url": "./static/media/animated_ashutosh_old.6c8410d0.png"
+    "url": "./static/media/animated_harish_vijayaragvan_old.6c8410d0.png"
   },
   {
     "revision": "a633be2faf9b129259563d65d0aa1333",
