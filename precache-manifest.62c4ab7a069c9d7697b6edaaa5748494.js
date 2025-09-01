@@ -65,7 +65,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "1de36679c03ac76df0c636f5102d3a75",
-    "url": "./static/media/animated_harish_vijayaragvan.1de36679"
+    "url": "./static/media/animated_harish_vijayaragvan.1de36679.png"
   },
   {
     "revision": "6c8410d0dc11fec239040695be13315d",
